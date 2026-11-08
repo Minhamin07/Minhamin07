@@ -42,7 +42,7 @@ I'm passionate about building practical web applications and exploring new techn
 **2. Smart Queue – Hospital Management System**
 - A hospital queue management system designed to improve patient flow and reduce waiting time.
 - Provides digital queue and hospital management features.
-- Tech Stack: React.js, Django REST Framework, MySQL.
+- Tech Stack: Python, Django, MySQL.
 
 **3. Deep Learning-Based Autonomous Garbage Pickup Robot with IoT-Based Mobile Monitoring**
 - Developed an autonomous garbage pickup robot using deep learning-based waste detection.
